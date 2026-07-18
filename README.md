@@ -13,7 +13,7 @@ The easiest way to use the notebooks is with **Google Colab**, a free website th
 3. Read the explanations, change the challenge code, and see what happens.
 4. Save your own copy with **File > Save a copy in Drive** before making larger changes.
 
-You will need a Google account to save work in Colab. Lessons 5 and 6, plus the matching final-project starters, download pre-trained AI models, so your device needs an internet connection for those activities.
+You will need a Google account to save work in Colab. Lessons 5 and 6, plus Lesson 8 Projects C and D, download pre-trained AI models, so your device needs an internet connection for those activities.
 
 ## Lessons
 
